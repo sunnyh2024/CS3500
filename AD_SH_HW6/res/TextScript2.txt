@@ -1,0 +1,24 @@
+create amongus.ppm 1
+create amongus.png 1
+create amongus.jpg 1
+copy 2 4
+blur 3
+blur 3
+grayscale 3
+sharpen 2
+sharpen 2
+changevisibility 1
+sepia 2
+remove 4
+changevisibility 3
+changevisibility 3
+exporttopmost TopMost.png
+exportall AmongUsExportsPPM ppm
+remove 1
+exportall AmongUsExportsJPG jpg
+exportall AmongUsExportsPNG png
+exportall Quit
+
+ 
+ 
+

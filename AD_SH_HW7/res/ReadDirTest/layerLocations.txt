@@ -1,0 +1,4 @@
+res/ReadDirTest/Layer1.png
+visible
+res/ReadDirTest/Layer2.png
+visible
